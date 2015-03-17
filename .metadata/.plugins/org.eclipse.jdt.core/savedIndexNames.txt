@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+D:\58Prj\java-cookbook\.metadata\.plugins\org.eclipse.jdt.core
+3731435976.index

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;net.mixedmuffin.cookbook&apos; to &apos;net.mixedmuffin.cookbook.filereader&apos;&#x0D;&#x0A;- Original project: &apos;filereader&apos;&#x0D;&#x0A;- Original element: &apos;filereader/src/main/java/net.mixedmuffin.cookbook&apos;&#x0D;&#x0A;- Renamed element: &apos;filereader/src/main/java/net.mixedmuffin.cookbook.filereader&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;net.mixedmuffin.cookbook&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;net.mixedmuffin.cookbook" name="net.mixedmuffin.cookbook.filereader" qualified="false" references="true" stamp="1426575194029" textual="false" version="1.0"/>
+</session>
